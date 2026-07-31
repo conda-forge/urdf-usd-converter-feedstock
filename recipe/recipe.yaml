@@ -1,5 +1,5 @@
 context:
-  version: "0.3.1"
+  version: "0.3.2"
 
 package:
   name: urdf-usd-converter
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/u/urdf-usd-converter/urdf_usd_converter-${{ version }}.tar.gz
-  sha256: 367d6f698dab11290fcabc21d6b43d598552402a702cd250495ee8bde00ab7c1
+  sha256: 9a202a3d6529cfa404b3734d17a7a2e87bd1c8d53a909edf97c9813c4d253833
 
 build:
   number: 0
